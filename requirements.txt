@@ -1,0 +1,18 @@
+numpy
+pandas
+scikit-learn
+nltk
+gensim
+matplotlib
+seaborn
+jupyterlab
+notebook
+tqdm
+spacy
+joblib
+python-dateutil
+regex
+
+# Optional (uncomment if needed for deep-learning experiments)
+# tensorflow
+# torch
